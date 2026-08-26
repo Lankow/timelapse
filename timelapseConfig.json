@@ -1,0 +1,34 @@
+[
+   {
+      "name":"Face",
+      "width":3072,
+      "height":4092,
+      "resolution":300,
+      "id":49,
+      "month":8,
+      "year":2026,
+      "inputPath":"../Input/Face",
+      "outputPath":"../Output/Face",
+      "imageNaming":{
+         "pre":"face",
+         "sep":"_",
+         "enu":1256
+      }
+   },
+   {
+      "name":"Body",
+      "width":3072,
+      "height":4092,
+      "resolution":300,
+      "id":20,
+      "month":8,
+      "year":2026,
+      "inputPath":"../Input/Body",
+      "outputPath":"../Output/Body",
+      "imageNaming":{
+         "pre":"body",
+         "sep":"_",
+         "enu":510
+      }
+   }
+]
