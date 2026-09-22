@@ -1,5 +1,7 @@
 # Photoshop Timelapse Automation
 
+For stabilized videos of the front, both profiles, and the top of the head, see [VIDEO_README.md](VIDEO_README.md). On Windows, run `Generate_Face_Videos.cmd` to choose views and regenerate the movies.
+
 A collection of Adobe Photoshop ExtendScript (`.jsx`) and Python utilities for automating the creation and post-processing of timelapse image sequences.
 
 The main workflow imports images into Photoshop, groups them into sets of four, positions them at the four corners of a document, exports each group as a JPG, and saves the resulting Photoshop document as a PSD.
