@@ -1,0 +1,58 @@
+[
+  {
+    "file": "01_January_2025/body_1.jpg",
+    "center_x": 464.03,
+    "center_y": 242.875,
+    "eye_span": 43.46,
+    "working_tile_width": 900
+  },
+  {
+    "file": "04_April_2025/body_81.jpg",
+    "center_x": 429.986,
+    "center_y": 241.6,
+    "eye_span": 46.26,
+    "working_tile_width": 900
+  },
+  {
+    "file": "07_July_2025/body_160.jpg",
+    "center_x": 475.5,
+    "center_y": 230.25,
+    "eye_span": 44.52,
+    "working_tile_width": 900
+  },
+  {
+    "file": "10_October_2025/body_240.jpg",
+    "center_x": 453.962,
+    "center_y": 249.81428571428572,
+    "eye_span": 44.116,
+    "working_tile_width": 900
+  },
+  {
+    "file": "13_January_2026/body_320.jpg",
+    "center_x": 476.2,
+    "center_y": 219.02857142857144,
+    "eye_span": 48.0,
+    "working_tile_width": 900
+  },
+  {
+    "file": "16_April_2026/body_401.jpg",
+    "center_x": 450.35,
+    "center_y": 225.8,
+    "eye_span": 49.02,
+    "working_tile_width": 900
+  },
+  {
+    "file": "18_June_2026/body_481.jpg",
+    "center_x": 456.552,
+    "center_y": 250.19642857142858,
+    "eye_span": 44.184,
+    "working_tile_width": 900
+  },
+  {
+    "file": "21_September_2026/body_560.jpg",
+    "center_x": 418.01599999999996,
+    "center_y": 242.5964285714286,
+    "eye_span": 44.704,
+    "working_tile_width": 900
+  }
+]

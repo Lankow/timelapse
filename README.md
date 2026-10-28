@@ -2,6 +2,8 @@
 
 For stabilized videos of the front, both profiles, and the top of the head, see [VIDEO_README.md](VIDEO_README.md). On Windows, run `Generate_Face_Videos.cmd` to choose views and regenerate the movies.
 
+For body-change videos, run `Generate_Refined_Body_Videos.cmd`; see [BODY_REFINED_README.md](BODY_REFINED_README.md) for torso stabilization, cropping, and playback settings. The original head-aligned body workflow is documented in [BODY_VIDEO_README.md](BODY_VIDEO_README.md).
+
 A collection of Adobe Photoshop ExtendScript (`.jsx`) and Python utilities for automating the creation and post-processing of timelapse image sequences.
 
 The main workflow imports images into Photoshop, groups them into sets of four, positions them at the four corners of a document, exports each group as a JPG, and saves the resulting Photoshop document as a PSD.
